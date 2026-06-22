@@ -3,6 +3,7 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+src/main/resources/2023_Yellow_Taxi_Trip_Data.csv
 
 ### STS ###
 .apt_generated
